@@ -1,3 +1,3 @@
 # git
 new line
-aldrin was here.. :)
+aldrin was here
